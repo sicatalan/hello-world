@@ -1,2 +1,2 @@
 # hello-world
-Github tutorial repo
+Indutrial engineer from Pontificia Universidad Catolica de Chile
